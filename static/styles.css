@@ -489,3 +489,16 @@ a {
     font-family:Helvetica;
     color:grey;
 }
+
+.chat-section{
+    position: fixed;
+    right:10px;
+    bottom:10px;
+    
+}
+
+.chat{
+    width: 60px;
+    height: 60px;
+    
+}
